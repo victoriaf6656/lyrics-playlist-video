@@ -86,3 +86,4 @@ end
 # relaxing = Playlist.new("guilhermesad","1Xi8mgiuHHPLQYOw2Q16xv")
 # relaxing.get_info
 # pp relaxing.tracks
+# KEY=VALUE
